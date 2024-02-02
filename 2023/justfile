@@ -1,0 +1,3 @@
+set positional-arguments
+@run challenge:
+	go run . $1
